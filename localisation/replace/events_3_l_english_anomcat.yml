@@ -3,7 +3,7 @@
  ####################################
  # Anomaly Categories
  ####################################
- TUTORIAL_CAT:0 "§WLeaving Home§!"
+ TUTORIAL_CAT:0 "§WLeaving Home§! §g(nan)§!"
  TUTORIAL_DESC:1 "During the survey of our home system we found something on [From.GetName] that did not match earlier observations made from our homeworld."
  TROP_BIOLOGY_CAT:0 "§YTropical Oddities§! §g(society research)§!"
  TROP_BIOLOGY_DESC:0 "The initial data gathered from the tropical forests of [Root.GetName] indicate that something is out of the ordinary."
@@ -15,7 +15,7 @@
  GEN_LOST_CARGO_DESC:0 "While scanning the asteroid belt our science team found some sort of irregularity."
  GEN_OLD_WAR_CAT:0 "§GA Feel For Steel§! §g(any habitable planet)§!"
  GEN_OLD_WAR_DESC:0 "The mineral composition of [Root.GetName] does not match projections."
- GEN_SURVEY_CAT:0 "§WOn the Surface§!"
+ GEN_SURVEY_CAT:0 "§WOn the Surface§! §g(nan)§!"
  GEN_SURVEY_DESC:0 "Our first finds on [Root.GetName] point toward more interesting discoveries to be made on the surface."
  SUN_RAYS_CAT:0 "§GConfounding Cosmic Rays§! §g(technology)§!"
  SUN_RAYS_DESC:0 "We have detected odd radiation that our Science Officer demands to investigate."
@@ -29,11 +29,11 @@
  DES_BURIED_DESC:0 "The desert planet [Root.GetName] seems to conceal some buried secrets."
  AST_GEAR_CAT:0 "§GAstonishing Asteroids§! §g(technology)§!"
  AST_GEAR_DESC:0 "Observing the massive asteroid [Root.GetName], we have found...\n\nSomething. Further investigation is warranted."
- TROP_CONDITIONS_CAT:0 "§WAmong the Vines and Trees§!"
+ TROP_CONDITIONS_CAT:0 "§WAmong the Vines and Trees§! §g(nan)§!"
  TROP_CONDITIONS_DESC:0 "[Root.GetName] appears to hold something of interest deep within its dense jungles."
  ARID_SENSOR_CAT:0 "§GArid and Abandoned§! §g(minerals)§!"
  ARID_SENSOR_DESC:0 "We have detected something out of the ordinary on the arid [From.GetPlanetMoon]. It seems like somebody has been here before us. Further investigation is needed."
- GEN_REFUGEES_CAT:0 "§WIntercepted Messages§!"
+ GEN_REFUGEES_CAT:0 "§WIntercepted Messages§! §g(nan)§!"
  GEN_REFUGEES_DESC:0 "As we scanned [Root.GetName] we received a signal. Pattern analysis makes it out to be a distress call from a ship, but we cannot be sure. We need to track the signal to its source if we wish to know more."
  CON_BIOLOGY_CAT:0 "§GContinental Findings§! §g(minerals)§!"
  CON_BIOLOGY_DESC:0 "The forests on this planetoid bear promises of interesting finds."
@@ -41,13 +41,13 @@
  TOX_PLANET_DESC:0 "There appears to be deliberately-crafted structures on the planet's surface, pointing toward a past long forgotten."
  DES_PLANET_CAT:0 "§YDesolate Sands§! §g(physics research)§!"
  DES_PLANET_DESC:0 "The scorching heat of [Root.GetName] is within the expected range. However, there is more unusual data still being collected by our team. Further study is needed before a final report can be filed."
- MOL_PLANET_CAT:0 "§WThe Melting Point§!"
+ MOL_PLANET_CAT:0 "§WThe Melting Point§! §g(nan)§!"
  MOL_PLANET_DESC:0 "The blazing fires of [Root.GetName] might be throwing our sensors off, but we are picking up readings out of the ordinary."
  GEN_MYSTICAL_CAT:0 "§GMystical§! §g(influence)§!"
  GEN_MYSTICAL_DESC:0 "Our survey has uncovered something that can only be described by the science team as "mystical." We would need to investigate the phenomenon in more detail to unshroud this mystery."
  NUKE_PLANET_CAT:0 "§GThe Winter of the Fallen§! §g(influence)§!"
  NUKE_PLANET_DESC:0 "The nuclear wasteland is evidently a sign of a previous civilization. Our scanners are picking up activity at certain locations that we should investigate."
- ARID_PLANET_CAT:0 "§WArid Wastes§!"
+ ARID_PLANET_CAT:0 "§WArid Wastes§! §g(nan)§!"
  ARID_PLANET_DESC:0 "The [From.GetPlanetMoon] is not the most welcoming of places, but if our initial scans are any indication it could hold some valuable resources."
  
  ####################################

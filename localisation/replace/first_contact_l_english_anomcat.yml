@@ -2665,7 +2665,7 @@
  fircon.5050.c.tt:0 "§RInvade the aliens to learn the secrets of the hyperlanes.§!"
  #Anomalies
 
- SOLARPUNK_CAT:0 "§WThe Missing Planets§!"
+ SOLARPUNK_CAT:0 "§WThe Missing Planets§! §g(nan)§!"
  SOLARPUNK_CAT_DESC:0 "There are an unusual amount of hyperlanes in this system. Usually, we would dismiss these as too small to facilitate a spaceship, but the sheer amount is intriguing in and of itself."
 
  #Names

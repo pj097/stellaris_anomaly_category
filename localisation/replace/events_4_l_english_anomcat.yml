@@ -3,13 +3,13 @@
  ####################################
  # Anomaly Categories
  ####################################
- rogue_moon_category:0 "§WRogue Moon§!"
+ rogue_moon_category:0 "§WRogue Moon§! §g(nan)§!"
  rogue_moon_category_desc:1 "Initial scans of [Root.GetName] indicate unexpected differences to its parent planet."
- hollow_planet_category:0 "§WHollow Planet§!"
+ hollow_planet_category:0 "§WHollow Planet§! §g(nan)§!"
  hollow_planet_category_desc:1 "Preliminary scans have shown that [Root.GetName] appears to be merely a hollow shell. We speculate that it may either be an entirely artificial creation, or it may once have been a normal planet which was somehow hollowed out."
- strong_magnetic_category:0 "§WStrong Magnetic Field§!"
+ strong_magnetic_category:0 "§WStrong Magnetic Field§! §g(nan)§!"
  strong_magnetic_category_desc:0 "Initial scanning revealed little but that [Root.GetName] has an unusually strong magnetic field surrounding it."
- undiscovered_planetary_modifier_category:0 "§WAbnormal Conditions§!"
+ undiscovered_planetary_modifier_category:0 "§WAbnormal Conditions§! §g(nan)§!"
  undiscovered_planetary_modifier_category_desc:0 "Investigate the strange environment of [From.GetName]."
 
  ####################################

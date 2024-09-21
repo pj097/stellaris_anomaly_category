@@ -236,10 +236,10 @@
  ancrel.23.desc:1 "Once we found an entrance to the data center and forced passage through the wreckage, it was a surprisingly easy task to reactivate- and interface with the computer systems. Self-repairing circuits and learning algorithms quickly came online to restore limited functionality, and communicate with our own computers.\n\nThe cause for this burst of activity quickly became clear: [From.Planet.GetName] was once the capital of a machine empire known as §H"The Omnicodex."§! Named for their driving purpose, the Omni were a hybrid of robots and cyborgs who had attempted to assimilate samples of all biological life in the galaxy, in order to prevent their extinction in the face of unknown galactic calamity.\n\nFrom the records which survive, we gather that this course of action was not popular amongst the other galactic powers of their era; the Omni were eventually defeated in a joint campaign conducted by several of these empires.\n\nBefore their downfall, the Omni managed to sample a great deal of races, and much work was put into developing a device capable of re-creating them if the need should ever arise. This device - The Omnicodex proper - is apparently stored somewhere nearby."
  ancrel.24.desc:0 "The Omnicodex has been unearthed. This unique device contains the genetic sequence of every race that the Omni were able to sample, and can re-create them using only basic elements as raw materials. Unfortunately, it seems the Omni did not have time to perfect it before meeting their annihilation, so there is no means of selecting which of the many sampled races would be created in any given activation of the device."
 
- ANCREL_ARC_CAT:0 "§WAlien Site§!"
+ ANCREL_ARC_CAT:0 "§WAlien Site§! §g(nan)§!"
  ANCREL_ARC_CAT_DESC:0 "Check out the alien signal"
 
- ANCREL_MECHANO_CAT:0 "§WA Planetary Machine§!"
+ ANCREL_MECHANO_CAT:0 "§WA Planetary Machine§! §g(nan)§!"
  ANCREL_MECHANO_CAT_DESC:0 "This planet is covered from pole to pole in rusting, ancient machinery, much of which is itself covered in an unidentified, organic tissue. What manner of creatures could have built this technological curiosity, and what happened to them?"
 
  baol_chain_title:0 "Precursors - The Baol"
@@ -612,7 +612,7 @@
  RUBRICATOR_SPACECRAFT:0 "Alien Logs"
  RUBRICATOR_SPACECRAFT_DESC:0 "We have recovered the logs from the wreckage of an alien spacecraft in the hopes that they will tell us something of its final moments. Science officer [Root.GetLeaderName] has flagged that they are quite extensive and may take a while to translate."
 
- ANCREL_RUBRICATOR_CAT:0 "§WWeapon Trails§!"
+ ANCREL_RUBRICATOR_CAT:0 "§WWeapon Trails§! §g(nan)§!"
  ANCREL_RUBRICATOR_CAT_DESC:1 "Faint traces of weapon radiation indicative of a military spacecraft have been detected on [From.GetName]."
 
  building_crystal_plant_2:1 "Kha'lanka Crystal Plant"

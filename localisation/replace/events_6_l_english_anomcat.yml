@@ -3,11 +3,11 @@
  # Anomaly Category
  the_lonely_bot_category:0 "§GSigns of Ancient Life§! §g(any habitable planet)§!"
  the_lonely_bot_category_desc:0 "[Root.GetName] exhibits signs of once having been home to an ancient civilization."
- NANO_SWARM_CAT:0 "§WDeserted Desert§!"
+ NANO_SWARM_CAT:0 "§WDeserted Desert§! §g(nan)§!"
  NANO_SWARM_CAT_DESC:0 "[Root.GetName] has significant bodies of water, and yet its landmasses are lifeless deserts. Further study is warranted."
  STAR_RESONANCE_CAT:0 "§GA Strange Resonance§! §g(technology)§!"
  STAR_RESONANCE_DESC:0 "Our scientists have discovered what first appeared to be a sensor malfunction near the corona of [root.GetName], however it's still there after rebooting. A closer look is warranted."
- ALPHA_CENTAURI_CAT:0 "§WStasis§!"
+ ALPHA_CENTAURI_CAT:0 "§WStasis§! §g(nan)§!"
  ALPHA_CENTAURI_CAT_DESC:0 "[From.GetName]'s peculiar orbit around its red dwarf star renders the planet tidally locked, and potentially worthy of further investigation."
  FROZEN_SPRINGS_CAT:0 "§GMysterious Heat§! §g(unity)§!"
  FROZEN_SPRINGS_CAT_desc:0 "Whilst surveying [From.GetName], the science team detected unusual heat signatures coming from below the frozen surface of the planet."
@@ -766,7 +766,7 @@
  fumongus_monitor_pops_desc:0 "We have managed to harness local fungal networks to monitor our colonists on the planet."
  disinformation_protocols:0 "Disinformation Protocols"
 
- UBUME_BABY_CAT:0 "§WStrange Debris§!"
+ UBUME_BABY_CAT:0 "§WStrange Debris§! §g(nan)§!"
  UBUME_BABY_CAT_DESC:0 "Scans have identified a debris field of uncertain origin. Could this have something to do with the abandoned science ship patrolling the system?"
 
  anomaly.6791.name:0 "Ghost Ship"
@@ -927,7 +927,7 @@
 
  #VENDING MACHINE
 
- VENDING_MACHINE_CAT:0 "§WAn Invitation§!"
+ VENDING_MACHINE_CAT:0 "§WAn Invitation§! §g(nan)§!"
  VENDING_MACHINE_CAT_DESC:0 "A signal beacon orbits [From.GetName], beckoning travelers nearer. On the asteroid, a giant metal monolith looms, its purpose unknown."
 
  anomaly.7000.name:0 "Mysterious Monolith"
@@ -1861,7 +1861,7 @@
  job_mineral_diver_drone_per_pop_short: "\n§G+1§! £job_mining_drone£ per $VALUE$ £pop£"
 
 ## Event Chain: Rapid Desertification
- RAPID_DESERTIFICATION_CAT: "§WRapid Desertification§!"
+ RAPID_DESERTIFICATION_CAT: "§WRapid Desertification§! §g(nan)§!"
  RAPID_DESERTIFICATION_CAT_DESC: "Aerial images taken of [From.Planet.GetName]'s rapidly diminishing vegetation could indicate the presence of an unidentified life form habiting its surface."
  anomaly.7135.name: "Alien Fauna Identified"
  anomaly.7135.desc: "We have found life on [desertling_planet.GetName]. Vast non-sapient herds of small mammals roam across the entire planetary surface.\n\nTheir population, labeled 'desertlings' by our scientists, is increasing at an alarming rate. The planet is already beyond its capacity, and the ecosystem is deteriorating rapidly."
@@ -1941,7 +1941,7 @@
  rapid_desertification_species: "Desertling"
 
 # Closing Aperture
- BREACHSEALER_CAT: "§WUniverse Breach Detected§!"
+ BREACHSEALER_CAT: "§WUniverse Breach Detected§! §g(nan)§!"
  BREACHSEALER_CAT_DESC: "The dim Seddom system houses a tear in the fabric of the universe. Even more unusual, the tear itself is gradually shrinking, as if something or someone is working to repair it."
  anomaly.7200.name: "Closing Aperture"
  anomaly.7200.desc: "Seddom is an eerie spectacle. The swirling planets are wreathed in darkness; nearby is a breach in the very fabric of our universe, a cosmic maw that devours the very radiance of the system's star.\n\nDespite the seemingly natural arrangement of planetoids, further analysis has revealed that they are arranged with mathematical precision. Millennia ago, some incredible force orchestrated the orbital bodies of this system into a specialized pattern, one which has not only mitigated the effects of the tear, but prevented it from spreading into the wider galaxy.\n\nWe arrive here at an auspicious moment - a monumental work nears completion. This system's restoration is imminent."
