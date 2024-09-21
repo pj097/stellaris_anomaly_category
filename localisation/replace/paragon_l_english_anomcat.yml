@@ -26,7 +26,7 @@
  paragon.102.desc:0 "The Monolith on [beholder_planet.GetName] has vanished, leaving a giant crater in its wake. The pre-sapient inhabitants line the precipice, seemingly confused."
 
  # RECRUITMENT #
- paragon_beholder_category:0 "§WSpiky Readings§! §g(nan)§!"
+ paragon_beholder_category:0 "§WSpiky Readings§!"
  paragon_beholder_category_desc:0 "We have detected intermittent energy spikes coming from the planet. These readings indicate something powerful, and far beyond the capabilities of the pre-sapient inhabitants we've observed."
 
  paragon.3.name:0 "Spiky Readings"

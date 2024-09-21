@@ -628,7 +628,7 @@
 ###########################################
 
 ### Collided Planet Event Chain
- collided_planets_category: "§WThe Collided Planet§! §g(nan)§!"
+ collided_planets_category: "§WThe Collided Planet§!"
  collided_planets_category_desc: "Eons ago two planets collided. In the wake of their demise a unique world was born."
 
  cs_collided_planet_chain_title: "The Collided Planet"
@@ -672,7 +672,7 @@
 ### Crimson crawlers Event Chain
  cs_crimson_crawlers_chain_desc: "Crimson Crawlers"
  cs_crimson_crawlers_chain_title: "We found a planet carpeted in trillions of red insects. A plague, or an opportunity?"
- crimson_crawlers_category: "§WCrimson Coverage§! §g(nan)§!"
+ crimson_crawlers_category: "§WCrimson Coverage§!"
  crimson_crawlers_category_desc: "A scarlet planet was surveyed in the [From.GetStarName] system. The intensity of the color is remarkable. We should investigate."
  cstorms.1255.name: "Crimson Crawlers"
  cstorms.1255.desc: "From a distance, [From.GetName]'s shone like some precious crimson jewel. Clay or other soil types infused with hard metals would be the usual explanation for such a geographical anomaly, but the truth was far more bizarre.\n\nBugs. Trillions, upon trillions, of bugs. They swarm over the surface of [From.GetName] in an almost unbroken carpet of multi-legged life.\n\nQuickly dubbed the 'crimson crawlers', these invertebrates possess a remarkably hyperactive reproduction cycle. While not harmful to their native environment, [From.GetName] is not well suited for colonization with these creatures scurrying about.\n\nOne rather unorthodox method of handling the insects has been proposed. Initial scans show they are edible, so perhaps we have found a new food source? We advise at least investigating the opportunity."

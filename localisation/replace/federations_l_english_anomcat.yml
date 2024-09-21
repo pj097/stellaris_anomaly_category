@@ -3535,7 +3535,7 @@
  SEA_CRYSTAL_CAT:0 "§GFloating Value§! §g(minerals)§!"
  SEA_CRYSTAL_CAT_DESC:0 "Starlight can be seen glinting off an unusually large object, just under the ocean surface of [Root.GetName]."
 
- WENKWORT_CAT:0 "§WPlanetscape Garden§! §g(nan)§!"
+ WENKWORT_CAT:0 "§WPlanetscape Garden§!"
  WENKWORT_CAT_DESC:0 "This entire world is unusually picturesque - suspiciously so, perhaps. What forces are at work that could have caused this?"
  federations3.115.name:0 "Interpretation Signal"
  federations3.115.desc:0 "Some form of aesthetic design has been employed over most of the surface landscape on [From.GetName]. Our scientists suspect that even the remaining, 'untouched' areas are merely crafted wilderness - there to serve a wider horticultural goal.\n\nTowards the conclusion of our research, we stumbled across a beacon - the sole example of technology on this world. When activated, it uploaded a catalog of every plant and animal species found on [From.GetName], as well as a reference pointer to nearby [event_target:wenkwort_rellrait.GetName]. No clue was left with which to identify the planet's designers."

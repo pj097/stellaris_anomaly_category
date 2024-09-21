@@ -422,7 +422,7 @@
  utopia.3200.8.desc:0 "The corpse of a dead [Root.GetSpeciesName] tumbles through the void ahead. The putrid carcass emits a shrill screech before it vanishes out of sight."
  utopia.3200.9.desc:0 "We cannot be certain this is really happening. Are we truly in the Shroud, or is one of us experiencing an acute psychotic breakdown?"
 
- terraforming_candidate_category:0 "§WAncient Signs of Life§! §g(nan)§!"
+ terraforming_candidate_category:0 "§WAncient Signs of Life§!"
  terraforming_candidate_category_desc:0 "This barren and lifeless world is showing signs of once having supported a biosphere."
  MESSAGE_TERRAFORM_FOUND_TITLE:0 "$anomaly.2575.name$"
  MESSAGE_TERRAFORM_FOUND_DESC:0 "[From.GetName] has been identified as a Terraforming Candidate. The [From.GetPlanetMoon] will be tracked as a potential future colonization target."

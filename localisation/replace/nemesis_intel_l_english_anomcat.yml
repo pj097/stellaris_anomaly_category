@@ -77,7 +77,7 @@
  INTEL_INFO_intel_economy_systems_high:0 "High Intel on Systems"
  INTEL_INFO_intel_economy_systems_low:0 "Low Intel on Systems"
  INTEL_INFO_intel_economy_systems_med:0 "Medium Intel on Systems"
- INTEL_INFO_intel_tech_num_category:0 "§WNumber of Researched Technologies§! §g(nan)§!"
+ INTEL_INFO_intel_tech_num_category:0 "§WNumber of Researched Technologies§!"
  INTEL_INFO_intel_tech_current_research:0 "Currently Researched Technologies"
  INTEL_INFO_intel_tech_scientists:0 "Employed Scientists"
  INTEL_INFO_intel_tech_researched_all:0 "Researched Technologies"
