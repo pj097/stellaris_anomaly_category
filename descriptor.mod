@@ -3,5 +3,5 @@ tags={
 	"Events"
 	"Utilities"
 }
-name="Anomaly Category"
+name="Anomaly Description"
 supported_version="v3.13.0"
