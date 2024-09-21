@@ -589,7 +589,7 @@
  galactic_features.384.tooltip:0 "Establish first contact with the §H[tiyanki_no_contact.GetName]§! to learn more."
 
  ## Anomaly
- TIYANKI_ASTEROID_CAT:0 "§WLiving Asteroid§!"
+ TIYANKI_ASTEROID_CAT:0 "§WLiving Asteroid§! §g(nan)§!"
  TIYANKI_ASTEROID_CAT_DESC:0 "Rock samples retrieved from the asteroid belt unexpectedly contain a large amount of biological tissue."
 
  # Anomaly result
