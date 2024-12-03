@@ -1,222 +1,165 @@
-anomaly_source,color,key_words,code,description
-A Curious Signal,green,unity,G,Choice between 150-1000 Unity or +10% Citizen Pop Happiness and +100% Xenophile Ethics Attraction for 5 years Barren
-A Feel For Steel,green,any habitable planet,G,Choice between 250-5000 Energy or a special project to gain the Master's Teachings: Warring States edict  Metal Boneyards planetary feature if the planet is habitable and +2 Alloys deposit if it is not If an L-Gate has been encountered and the L-Cluster hasn't been accessed there is a 30% chance to gain an L-Gate Insight in 10 days Any Habitable Planet
-A Glint of Metal,green,any habitable planet,G,Rich Mountain and Submerged Ore Veins planetary features Any Habitable Planet
-A Lush Planet,white,,W,Missing description. Please contribute to the wiki :)
-A Planetary Machine,white,,W,Missing description. Please contribute to the wiki :)
-A Strange Resonance,green,technology,G,Choice between +4 Physics Research deposit and +10% Monthly Unity for 50 years or the next lasers technology if not yet researched Any Star
-Abandoned Observation Post,white,,W,Missing description. Please contribute to the wiki :)
-Abandoned Settlements,green,any habitable planet,G,Special project to gain the Brain Slug Host trait and 150-500 Society Research if not Machine Intelligence 150-500 Society Research if Machine Intelligence Any Habitable Planet
-Abandoned Station,green,technology,G,Choice between 100-1000 Energy or 100-1000 Minerals Choice between 50 Influence or the next hyperdrive technology Can choose to instead establish communications with the Curator Order if Arthropoid and Leviathans or Distant Stars is installed Asteroid
-Abnormal Conditions,white,,W,Missing description. Please contribute to the wiki :)
-Aerostat Structures,yellow,scaled,Y,Scaled Society Research +3 Engineering Research deposit Gas Giant
-Aftermath Distress Signal,green,minerals,G,Option to pay 100 Alloys to gain 150-100000 Unity and 150-2000 Consumer Goods if not Gestalt Consciousness Option to pay 100 Alloys to gain 150-100000 Unity and 150-2000 Minerals if Gestalt Consciousness and not Devouring Swarm 250-5000 Food if Devouring Swarm Any Star
-Alien Activity,yellow,society research,Y,60-150 Society Research Gaia
-Alien Life,green,any habitable planet,G,Savage Wildlands planetary feature and Hostile Fauna planet modifier Any Habitable Planet
-Alien Machine,green,minerals,G,Choice between 100-1000 Minerals and scaled Physics Research or creating a wormhole to a random system Asteroid
-Alien Site,white,,W,Missing description. Please contribute to the wiki :)
-Among the Vines and Trees,white,,W,Planet gains the Nutritious Food modifier Tropical
-"An Asteroid, Carved",white,,W,Shrines to the Old Gods event chain Asteroid
-An Invitation,white,,W,Option to spend 200 Energy to gain a random reward Asteroid
-Ancient Battlefield,green,technology,G,Next hull size technology or scaled Engineering Research if already researched Asteroid
-Ancient Hulk,green,influence,G,Science ship scientist gains the Hyper Focus trait 50 Influence or special project to find the Paridayda system Gas Giant
-Ancient Manufactory,white,,W,Missing description. Please contribute to the wiki :)
-Ancient Shipyard,green,corvettes,G,Special project to gain 3 pirate corvettes or a pirate destroyer Uninhabitable Planet
-Ancient Signs of Life,white,,W,Missing description. Please contribute to the wiki :)
-Arid and Abandoned,green,minerals,G,Choice between 100-1000 Minerals or a special project to gain the Extensive Sensor Searches edict Arid
-Arid Wastes,white,,W,Planet gains +50% Energy from Jobs for 2 years after being colonized and 2 Frozen Gas Lake planetary features Arid
-Armed Vessel,green,influence,G,50 Influence or special project to gain 90-250 Engineering Research Asteroid
-Asteroid Collision,green,minerals,G,+3 Minerals deposit Choice between the Asteroid Encryption and Asteroid Relay Stations empire modifiers Asteroid
-Asteroid in Orbit,yellow,deposit,Y,+3 Engineering Research deposit Can choose to instead gain the Asteroid Thrusters empire modifier with Calamitous Birth origin +2 Rare Crystals deposit Uninhabitable Planet
-Asteroid Triplets,yellow,deposit,Y,Choice between +2 Energy deposit and +1 Rare Crystals deposit Asteroid
-Asteroid Waves,yellow,scaled,Y,Scaled Physics Research +2 Engineering Research deposit and +2 Society Research deposit Can choose to instead gain a special project to gain a new ship if Reanimators or Permanent Employment Science ship scientist gains the Expertise: Statecraft trait if not Machine Intelligence and Expertise: Biology trait if Machine Intelligence Choice between +2 Physics Research deposit and +2 Society Research deposit or scaled Physics Research and 150-2000 Energy Asteroid
-Astonishing Asteroids,green,technology,G,Choice between 100-1000 Minerals or a special project to gain the next mining technology Asteroid
-Atmospheric Anomaly,yellow,deposit,Y,+4 Society Research deposit Uninhabitable Planet
-Atmospheric Object,yellow,scaled,Y,Scaled Engineering Research Scaled Physics Research Gas Giant
-Atmospheric Storms,red,scientist dies,R,+3 Physics Research deposit Choice between +7 Physics Research deposit but the scientist dies or a special project to give the scientist the Expertise: Field Manipulation trait Gas Giant
-Attractive Magnetism,green,any habitable planet,G,Soothing Magnetism planet modifier Any Habitable Planet
-Backgrounds,white,,W,Missing description. Please contribute to the wiki :)
-Between Land and Sea,white,,W,Missing description. Please contribute to the wiki :)
-Billowing Sands,white,,W,Missing description. Please contribute to the wiki :)
-Bizarre Blanket,green,any habitable planet,G,90-250 Society Research Any Habitable Planet
-Bright Object Detected,white,,W,Missing description. Please contribute to the wiki :)
-Buried in the Sand,green,minerals,G,Choice between +2 Engineering Research deposit or a robot Commander Choice between 150-2000 Energy and Minerals or a special project to gain the Master's Teachings: The Greater Good edict Desert
-But They're Cute!,green,any habitable planet,G,Choice between Dangerous Wildlife Removal technology or a special project to give the scientist the Emotional Support Pet trait and gain Unity Any Habitable Planet
-Cargo Pod,green,influence,G,"Choice between 100-1000 Alloys, 100-1000 Energy or scaled Society Research Can choose to instead gain 1 Minor Artifacts if Ancient Relics is installed Choice between 100 Influence or +5% Research Speed and −5% Monthly Unity for 10 years Gas Giant"
-Clouds Dance,white,,W,The Gas Giant is terraformed into a Barren World and the science ship scientist gains 200 experience Gas Giant
-Cold Hard Potential,green,technology,G,+6 Minerals deposit and choice between a scientist leader with Genious trait or +20% Anomaly Discovery Chance and Anomaly Research Speed for 20 years Next shields technology or 5% Energy Credits from Jobs Empire modifier +20% Anomaly Research Speed and +20% Survey Speed for 10 years Choice between 150-2000 Energy and 500 Consumer Goods or a special project to gain the Master's Teachings: Philosophical Mindset edict Frozen
-Cold Wastes,yellow,scaled,Y,+5% Happiness for 20 years Choice between scaled Physics Research or a scientist leader Frozen
-Confounding Cosmic Rays,green,technology,G,+3 Physics Research deposit Next reactor technology Dry Planet
-Confusing Composition,yellow,society research,Y,350-100000 Society Research Any Uninhabitable Planet
-Continental Findings,green,minerals,G,Planet gains the Lush modifier Choice between 150-2000 Energy and Minerals or a special project to gain the Master's Teachings: Diplomatic Trust edict Continental
-Corrupt Survey Data,green,any habitable planet,G,60-150 Engineering Research and the planet disappears Any Habitable Planet
-Cosmic Sludge,green,technology,G,"Choice between a Cosmic Storms technology or 100-1000 Minerals, Alloys, Exotic Gases, Rare Crystals and Volatile Motes Any Star"
-Covered in Debris,green,technology,G,+3 Minerals deposit Choice between +3 Alloys deposit or the next Afterburners technology if not yet researched Asteroid
-Crash Site,yellow,archaeological,Y,Seeds of Destruction archaeological site Asteroid
-Crashed Ship,green,minerals,G,Scaled Engineering Research +3 Minerals deposit Asteroid
-"Crawling, on the Planet's Face",white,,W,Missing description. Please contribute to the wiki :)
-Crimson Coverage,white,,W,Missing description. Please contribute to the wiki :)
-Cryostatic Biology,white,,W,Missing description. Please contribute to the wiki :)
-Debris Field,green,any habitable planet,G,+5 Minerals deposit Asteroid OR Gain 18x engineering output (potential gain of 350 ~ 100 000) and can choose to start a 42 year countdown Any Habitable Planet
-Deep Caverns,green,technology,G,+1 Living Metal deposit and Living Metal technology if not already researched Any Uninhabitable Planet
-Deep Tunnels,white,,W,Flooded Mounds planetary feature and Watery Grave planet modifier Ocean
-Deserted Desert,white,,W,Missing description. Please contribute to the wiki :)
-Deserted Star Platform,white,,W,Missing description. Please contribute to the wiki :)
-Desolate Sands,yellow,physics research,Y,Planet gains +30% Physics Research from Jobs and 3 Quicksand Basin blockers Desert
-Dilapidated Station,white,,W,Missing description. Please contribute to the wiki :)
-Dimensional Disturbance,yellow,scaled,Y,Scaled Engineering Research and Scaled Physics Research 1 extradimensional science ship Asteroid
-Displaced Tiyanki,green,minerals,G,"Special project to gain 100-1000 Food, Minerals, Alloys and Rare Crystals and 250-100000 Society Research if not Devouring Swarm 100-1000 Food if Devouring Swarm Any Star"
-Distress Signal,yellow,scaled,Y,Special project to gain scaled Society Research Any Planet
-Docking Hatch,yellow,deposit,Y,100-1000 Energy +3 Engineering Research deposit Asteroid
-Doppelgangers,white,,W,Missing description. Please contribute to the wiki :)
-Doppler Effect,white,,W,The Ransomeers event chain Uninhabitable Planet
-Drops in the Ocean,yellow,society research,Y,"+10% Society Research from Jobs for 10 years, +10% Happiness for 10 years and gain the Improved Working Environment edict Ocean"
-Dunes,green,influence,G,100-1000 Energy Science ship scientist gains the Towel-bearer trait Special project to gain 1 corvette Can choose to instead gain 40-100 Influence if Xenophobe Desert
-Dustbowl,green,technology,G,+3 Engineering Research deposit +6 Engineering Research deposit  Ion Thrusters technology or 100-500 Unity if already researched Asteroid
-Encrypted Transmission,yellow,l-gate,Y,+1 L-Gate Insight Any Planet
-Energy Emissions,yellow,scaled,Y,Scaled Physics Research +3 Physics Research deposit Asteroid
-Existentialist Dissipation,green,unity,G,150-100000 Unity Any Uninhabitable Planet
-Fairly Humid,white,,W,Missing description. Please contribute to the wiki :)
-Familiar Compounds,white,,W,Missing description. Please contribute to the wiki :)
-Fleet Signatures,yellow,deposit,Y,+3 Society deposit Black Hole
-Floating Value,green,minerals,G,Choice between 250-5000 Minerals and 125-250 Influence Ocean
-Foreign Object,green,technology,G,Choice between 500-1000000 Society Research or a special project to gain the Xenology technology and a Cosmic Storms technology if not Devouring Swarm 250-5000 Food if Devouring Swarm Any Star
-Gas Giant Ship,green,influence,G,Choice between 50 Influence or a special project to gain a cruiser Gas Giant
-Gas Giant Signal,white,,W,Gas Giant Signal event chain Gas Giant
-Gray Goo,green,technology,G,Random Industry technology +1 L-Gate Insight if an L-Gate was discovered Frozen
-Haunting Sea,white,,W,Missing description. Please contribute to the wiki :)
-Heated Rhythm,yellow,deposit,Y,+2 Engineering Research deposit and 150-2000 energy Molten
-Heavy Pulse,yellow,deposit,Y,+4 Physics deposit Class F Star
-Heavy Readings,red,paranoid trait,R,Special project to gain 90-250 Physics Research and 2 levels and the Paranoid trait for the scientist Any Star
-Hollow Planet,white,,W,Missing description. Please contribute to the wiki :)
-Ice Ice Giant,yellow,deposit,Y,+1 Zro deposit Gas Giant
-Ice Lit,green,technology,G,Blue Lasers technology or 100 scientist experience if already researched Frozen
-Icy Plains,yellow,scaled,Y,Ancient Mining Site planetary feature and scaled Engineering Research Arctic
-Impenetrable Clouds,green,minerals,G,+3 Minerals deposit Toxic
-Impossible Organism,white,,W,Impossible Organism event chain Toxic
-Improbable Orbit,green,influence,G,Choice between 40-100 Influence or a special project to gain randomly 150-300 Influence or +15% Research Speed for 20 years Can choose to instead gain 80-175 Influence if Spiritualist Any Star
-Inconsistent Readings,yellow,deposit,Y,+3 Physics deposit Frozen
-Intercepted Messages,white,,W,Missing description. Please contribute to the wiki :)
-Interference,yellow,physics research,Y,250-100000 Physics Research and 250-100000 Society Research Any Star
-Irregular Energy Emissions,green,influence,G,25 Influence or special project to give a scientist the Perfectionist trait Any Star
-Isolated Ruin,green,any habitable planet,G,Zone A planetary feature Any Habitable Planet
-Kaleidoscopic,white,,W,Science ship scientist gains 200 experience Ocean
-"Kinship, of a Sort",white,,W,Missing description. Please contribute to the wiki :)
-Leaving Home,white,,W,Missing description. Please contribute to the wiki :)
-Life Signs,green,technology,G,"+3 Society Research deposit +3 Minerals deposit Choice between +4 Society Research deposit or +3 Food deposit Choice between +4 Engineering Research deposit or +3 Alloys deposit Can choose to instead gain +5 Alloys deposit with Catalytic Processing civic Can choose to instead gain +4 Society deposit with Agrarian Idyll civic Choice between scaled Physics Research, scaled Society Research, 250-1500 Unity or +4 Engineering Research deposit Special project to gain +4 Society Research deposit and scaled Society Research +3 Society Research deposit and special project to gain scaled Society Research and the Living Metal technology if not already researched Uninhabitable Planet"
-Light Phenomenon,green,minerals,G,Choice between +4 Physics Research deposit or a special project to gain 150-2000 Minerals Any Star
-Living Asteroid,white,,W,Missing description. Please contribute to the wiki :)
-Looking Down,green,influence,G,+2 Engineering Research deposit and +2 Physics Research deposit Special project to give the science ship scientist the Expertise: Military Theory trait Can choose to instead gain 40-100 Influence if Pacifist Barren
-Lost Soul,green,minerals,G,+3 Minerals deposit Asteroid
-Massive Impact,green,minerals,G,Scaled Physics Research +3 Minerals deposit Uninhabitable Planet
-Megaflora,green,any habitable planet,G,350-100000 Society Research Any Habitable Planet
-Melting,white,,W,Missing description. Please contribute to the wiki :)
-Metallic Crystal Formations,yellow,l-gate,Y,90-250 Engineering Research 200 Nanites if not Xenophobe 90-250 Society Research if Xenophobe +1 L-Gate Insight if an L-Gate was discovered Frozen
-Metallic Sands,green,minerals,G,90-250 Engineering Research  Nanosands planetary feature if planet is habitable +4 Minerals deposit if planet is uninhabitable +1 L-Gate Insight if an L-Gate was discovered Any Planet
-Mind the Minerals,yellow,deposit,Y,+3 Alloys deposit Asteroid
-Mineral Cluster,green,minerals,G,"250-5000 Minerals and science ship scientist gains the Intuition trait Science ship scientist gains the Expertise: Voidcraft trait Special project to gain scaled Society Research and give the science ship scientist the Expertise: Statecraft trait Can choose to instead gain 40-100 Influence if Xenophobe Special project to gain 40-100 Influence or 250-5000 energy, 20 Opinion and a Favor with a random empire Asteroid"
-Minesweeper,white,,W,Science ship scientist gains the Expertise: New Worlds trait Gaia
-Misc,white,,W,Missing description. Please contribute to the wiki :)
-Monoliths,yellow,scaled,Y,Scaled Engineering Research Uninhabitable Planet
-Movement in the Clouds,white,,W,Lost Amoeba event chain Gas Giant
-Murky Vats,white,,W,Missing description. Please contribute to the wiki :)
-Mysterious Construct,white,,W,Special project to gain the S875.1 Warform renowned paragon if AI Policy is not Outlawed Toxic
-Mysterious Heat,green,unity,G,Choice between scaled Unity or scaled Society Research Frozen
-Mysterious Tanker,white,,W,Missing description. Please contribute to the wiki :)
-Mystical,green,influence,G,Special project to gain 25 Influence or +15 Years Leader Lifespan Asteroid
-Nuclear Wasteland,white,,W,Missing description. Please contribute to the wiki :)
-Number of Researched Technologies,white,,W,Missing description. Please contribute to the wiki :)
-Odd Readings,yellow,scaled,Y,Scaled Society Research Choice between 100-1000 Alloys or a special project to gain a science ship or an empire modifier increasing subspace speed by 10% Asteroid
-On Solar Sails,yellow,archaeological,Y,Message in a Bottle archaeological site Any Star or Planet
-On the Barren Plains,white,,W,Limbo event chain Barren
-On the Surface,white,,W,Missing description. Please contribute to the wiki :)
-On Thick Ice,white,,W,Missing description. Please contribute to the wiki :)
-Orbital Debris,white,,W,Missing description. Please contribute to the wiki :)
-Orbital Speed Demon,white,,W,Orbital Speed Demon event chain Asteroid
-Overgrown Ruins,green,any habitable planet,G,120-350 Society Research if not Fanatic Purifiers or Determined Exterminator 90-250 Society Research if Fanatic Purifiers or Determined Exterminator Any Habitable Planet
-Paradise Anticipated,yellow,scaled,Y,Scaled Society Research Gaia
-Parked,green,any habitable planet,G,1 pirate corvette or 40-100 Influence if Xenophobe Any Habitable Planet
-Peculiar Crater,green,technology,G,+1 Living Metal deposit and Living Metal technology if not already researched Uninhabitable Planet
-Peculiar Patterns,green,any habitable planet,G,Harvester Fields planetary feature and Ancient Harvesters planet modifier Any Habitable Planet
-Phased Planet,white,,W,Missing description. Please contribute to the wiki :)
-Pigment Poison,white,,W,+10% Happiness for 20 years Toxic
-Planetary Scars,green,any habitable planet,G,Special project to gain a random weapon technology Any Habitable Planet
-Planetscape Garden,white,,W,Missing description. Please contribute to the wiki :)
-Playful Ruins,yellow,scaled,Y,Scaled Society Research and Scaled Engineering Research Any Planet
-Poison-coated,green,minerals,G,Option to pay 100 Energy to issue a special project to gain +6 Minerals deposit Toxic
-Polychromatic Star,yellow,deposit,Y,Choice between +7 Physics Research deposit or +2 Energy deposit Any Star
-Possible Inhabitants,green,minerals,G,"Choice between 100-1000 Minerals or a special project to gain 150-2000 Minerals, 6 pops or the Mineral Mapping empire modifier Dry Planet"
-Projecting,yellow,deposit,Y,Special project to gain +3 Engineering Research deposit Uninhabitable Planet
-Promising Moon,green,minerals,G,+3 Energy deposit Choice between +5 Minerals deposit or 1200 Minerals Gas Giant
-Radiating Asteroid,yellow,deposit,Y,+1 Dark Matter deposit Asteroid
-Rainbow in the Dark,red,paranoid trait,R,+9 Physics Research deposit Scaled Physics Research and science ship scientist gains the Paranoid trait Black Hole
-Rapid Desertification,white,,W,Planet gains the Alien Infestation modifier and a special project to replace it with Lush and the Bountiful Plains and Green Hills planetary features Can choose to instead gain +10% Society from Jobs and −5% Housing for 10 years if not Xenophobe Can choose to instead gain 500 Food if not Pacifist or Xenophile Can choose to instead gain a pre-sapient pop with the Delicious and Unintelligent trait on every planet if Xenophobe Dry Planet
-Resonant Crystals,green,any habitable planet,G,Resonant Crystals planet modifier Any Habitable Planet
-Rogue Moon,white,,W,Missing description. Please contribute to the wiki :)
-Rubiconian Shores,green,any habitable planet,G,Drifting Battlefield event chain Any Habitable Planet
-Ruined Capital,white,,W,Missing description. Please contribute to the wiki :)
-Scurrying,green,influence,G,40-100 Influence Tropical
-Secret Heart,yellow,deposit,Y,+1 Rare Crystals deposit Asteroid
-Shattered Satellite,green,technology,G,Cosmic Storms technology and 100-1000 Minerals Any Star
-Ship Fragments,yellow,deposit,Y,500-1000000 Society Research +7 Physics Research deposit Neutron Star
-Signs of Ancient Life,green,any habitable planet,G,Enigmatic Robot planetary feature and 100-1000 Alloys Any Habitable Planet
-Signs of Battle,yellow,scaled,Y,Special project to gain +3 Engineering Research deposit and the science ship scientist gains 200 experience 50% to also gain scaled Engineering Research If an L-Gate has been encountered and the L-Cluster hasn't been accessed there is a 30% chance to gain an L-Gate Insight in 10 days Uninhabitable Planet
-Signs of Former Habitation,yellow,deposit,Y,+2 Society Research deposit and +2 Engineering Research deposit +2 Society Research deposit and +2 Physics Research deposit Toxic
-Silent Behemoth,yellow,deposit,Y,"Dead God planet modifier, +5 Society deposit and 60-150 Society Research Any Uninhabitable Moon"
-Slithering,white,,W,Missing description. Please contribute to the wiki :)
-Solar Sailer,yellow,scaled,Y,Scaled Engineering Research Uninhabitable Planet
-Solid Core,yellow,deposit,Y,+2 Exotic Gases deposit and 90-250 Society Research +1 L-Gate Insight if an L-Gate was discovered Gas Giant
-Something Smells,yellow,scaled,Y,Special project to gain scaled Society Research Frozen
-Space Debris,green,minerals,G,+3 Minerals deposit Special project to give the science ship scientist the Hyper Focus trait Gas Giant
-Space Station,yellow,deposit,Y,A random celestial body with a deposit within borders gains a mining station Uninhabitable Planet
-Spacecraft Remains,green,technology,G,"Scientist leader and either Automated Exploration Protocols, Synchronized Defenses or Subspace Sensors technology Asteroid"
-Spiky Readings,white,,W,Missing description. Please contribute to the wiki :)
-Spontaneous Explosions,yellow,scaled,Y,Special project to gain scaled Engineering Research and option to spawn the Weapon Extraction Facility planetary feature Can choose to instead spawn an Astral Rift if Astral Planes is installed Tomb
-Spotty Greenery,white,,W,Hyperfertile Valley planetary feature Special project to add the Ancient Mining Site planetary feature and give the science ship scientist the Expertise: Industry trait Wet Planet
-Stalking the Wastes,white,,W,Missing description. Please contribute to the wiki :)
-Stasis,white,,W,Missing description. Please contribute to the wiki :)
-Steamrolled,green,any habitable planet,G,All blockers on the planet are removed Any Habitable Planet
-Strange Debris,white,,W,Missing description. Please contribute to the wiki :)
-Strange Emissions,green,influence,G,"Choice between 100-1000 Energy, scaled Unity or special project to find the Orvall unique system Choose between Society Research, 100-1000 Energy or 40-100 Influence if the Desiccated site has been excavated (dismantled) Choose between Society Research or special project to gain +10 Base Intel Level if the Desiccated site has been excavated (restored) Barren"
-Strange Mountain Formation,yellow,scaled,Y,Special project to gain +3 Engineering Research deposit and +3 Society Research deposit Can choose a second special project that will grant a Skeletal Giant army if the empire has the Reanimators or Permanent Employment civic Choice between +4 Society Research deposit or a special project to gain +8 Society Research deposit and scaled Society Research Can choose to instead gain +10 Food deposit if Devouring Swarm Uninhabitable Planet
-Strange Readings,green,unity,G,+3 Unity deposit Can choose to also gain +1 Amenities and −1 Deviancy for 20 years if Hive Mind Can choose to instead gain +6 Physics deposit if Machine Intelligence Uninhabitable Planet
-Strong Magnetic Field,white,,W,Missing description. Please contribute to the wiki :)
-Supply Ship Wreckage,green,minerals,G,300 minerals or 100 Influence Any Planet
-Surface Beacon,green,minerals,G,+4 Minerals deposit Uninhabitable Planet
-Surface Pings,white,,W,Missing description. Please contribute to the wiki :)
-Surface Signature,white,,W,Missing description. Please contribute to the wiki :)
-Surface Writing,yellow,deposit,Y,+3 Society Research deposit Uninhabitable Planet
-Symmetrical Structures,white,,W,Missing description. Please contribute to the wiki :)
-Terminal Orbit,yellow,scaled,Y,Special project to gain scaled Physics Research Gas Giant
-Terrestrial Telescopes,green,unity,G,150-100000 unity and 250-100000 Society Research Any Uninhabitable Planet
-The Collided Planet,white,,W,Missing description. Please contribute to the wiki :)
-The Imitator,green,unity,G,Choice between 100-1000 Alloys and Unity or a random level 3 Scientist Any Uninhabitable Planet
-The Life Aquatic,white,,W,Missing description. Please contribute to the wiki :)
-The Melting Point,white,,W,Missing description. Please contribute to the wiki :)
-The Missing Planets,white,,W,Missing description. Please contribute to the wiki :)
-The Orb,yellow,scaled,Y,Choose between scaled Physics Research or giving the science ship scientist the Chronofuge trait Any Planet
-The Organic Comet,yellow,deposit,Y,Choice between +3 Society Research deposit or +1 Exotic Gases deposit Any Uninhabitable Planet
-The Winter of the Fallen,green,influence,G,Special project to gain 125-250 Influence Has a chance to gain a Commander if Pacifist or Spiritualist Tomb
-Thin Ice,yellow,deposit,Y,"Special project to gain +1 Research deposit, +3 Rare Crystals deposit, or lose the science ship scientist to gain a +5 Research deposit Frozen"
-Tomb World,white,,W,Missing description. Please contribute to the wiki :)
-Toxic Construction,green,minerals,G,+6 Minerals deposit Can choose to instead gain +9 Society deposit if science ship scientist has the Perfectionist trait Toxic
-Toxicity,yellow,deposit,Y,"+6 Engineering Research deposit, Improved Energy Initiative edict and science ship scientist gains the Expertise: Propulsion trait Toxic"
-Traces of Civilization,white,,W,Missing description. Please contribute to the wiki :)
-Tropical Oddities,yellow,society research,Y,Planet gains +20% Society Research from Jobs and 2 Noxious Swamp blockers Tropical
-Unidentified Drop Pods,white,,W,Missing description. Please contribute to the wiki :)
-Unidentified Object,yellow,scaled,Y,Special project to gain scaled Engineering Research Uninhabitable Planet
-Universe Breach Detected,white,,W,Missing description. Please contribute to the wiki :)
-Unknown Insides,green,minerals,G,Choice between +4 Energy deposit or a special project to gain +3 Minerals deposit Asteroid
-Unknown Origin,yellow,scaled,Y,Scaled Society Research +3 Society Research deposit +1 Alloys deposit Asteroid
-Unscannable Object,yellow,l-gate,Y,90-250 Physics Research +1 L-Gate Insight if an L-Gate was discovered Asteroid
-Unusual Energy Readings,green,unity,G,"Scaled Engineering Research Scaled Physics Research +3 Physics Research deposit Choice between scaled Unity, +10% Monthly Engineering Research for 10 years or 100 Alloys and 50 Rare Crystals and Volatile Motes If an L-Gate has been encountered and the L-Cluster hasn't been accessed there is a 30% chance to gain an L-Gate Insight in 10 days Uninhabitable Planet"
-Unusual Moon,green,minerals,G,+3 Minerals deposit Any Uninhabitable Moon
-Unusual Temporal Fluctuations,yellow,deposit,Y,+3 Physics Research deposit Asteroid
-Volcanic Vents,yellow,deposit,Y,+1 Exotic Gases deposit and 60-150 Society Research Molten
-Waterless Canyons,green,minerals,G,+4 Minerals deposit Barren
-Weak Signal,yellow,scaled,Y,Scaled Society Research Scaled Society Research Uninhabitable Planet
-Weapon Trails,white,,W,Missing description. Please contribute to the wiki :)
-Webwork,yellow,deposit,Y,+3 Society deposit and scientist gains a level Any Uninhabitable Planet
-What Hums in the Night,green,any habitable planet,G,Toy Factory Complex planetary feature Scaled Society Research Any Habitable Planet
-Winking,yellow,deposit,Y,Choice between +4 Physics Research deposit or spending 200 Energy for a 50% chance to terraform the planet into an Arid World Barren
-Wooden Hegemony,white,,W,Special project to give the science ship scientist 200 experience Tropical
+anomaly_source,Specimen,Effects,color,key_words,code,description
+A Curious Signal,nan,nan,green,unity,G,Choice between 150-1000 Unity or +10% Citizen Pop Happiness and +100% Xenophile Ethics Attraction for 5 years (Barren)
+A Feel For Steel,Decayed Megathrusters,+5% Sublight Speed,magenta,any habitable planet,_,Choice between 250-5000 Energy or a special project to gain the Master's Teachings: Warring States edict  Metal Boneyards planetary feature if the planet is habitable and +2 Alloys deposit if it is not If an L-Gate has been encountered and the L-Cluster hasn't been accessed there is a 30% chance to gain an L-Gate Insight in 10 days (Any Habitable Planet)--------------------Decayed Megathrusters: +5% Sublight Speed
+A Glint of Metal,nan,nan,green,any habitable planet,G,Rich Mountain and Submerged Ore Veins planetary features (Any Habitable Planet)
+A Strange Resonance,Resonant Diffusion Crystal,+10% Monthly Rare Crystals,magenta,technology,_,Choice between +4 Physics Research deposit and +10% Monthly Unity for 50 years or the next lasers technology if not yet researched (Any Star)--------------------Resonant Diffusion Crystal: +10% Monthly Rare Crystals
+Abandoned Settlements,nan,nan,green,any habitable planet,G,Special project to gain the Brain Slug Host trait and 150-500 Society Research if not Machine IntelligenceAdds 3 pre-sapient pops to the planet 150-500 Society Research if Machine (Any Habitable Planet)
+Abandoned Station,Curator Survey,+5 Engineering Research,magenta,technology,_,Choice between 100-1000 Energy or 100-1000 Minerals Choice between 50 Influence or the next hyperdrive technology Can choose to instead establish communications with the Curator Order if Arthropoid and Leviathans or Distant Stars is installed (Asteroid)--------------------Curator Survey: +5 Engineering Research
+Aerostat Structures,nan,nan,yellow,scaled,Y,Scaled Society Research +3 Engineering Research deposit (Gas Giant)
+Aftermath Distress Signal,None,nan,magenta,minerals,_,Option to pay 100 Alloys to gain 150-100000 Unity and 150-2000 Consumer Goods if not Gestalt Consciousness Option to pay 100 Alloys to gain 150-100000 Unity and 150-2000 Minerals if Gestalt Consciousness and not Devouring Swarm 250-5000 Food if Devouring Swarm (Any Star)
+Alien Activity,nan,nan,yellow,society research,Y,60-150 Society Research (Gaia)
+Alien Life,nan,nan,green,any habitable planet,G,Savage Wildlands planetary feature and Hostile Fauna planet modifier (Any Habitable Planet)
+Alien Machine,nan,nan,green,minerals,G,Choice between 100-1000 Minerals and scaled Physics Research or creating a wormhole to a random system (Asteroid)
+Among the Vines and Trees,Manna Fruit,+2% Food from Jobs if biological main species  +2% Minerals from Jobs if lithoid main species,magenta,minerals,_,Planet gains the Nutritious Food modifier (Tropical)--------------------Manna Fruit: +2% Food from Jobs if biological main species  +2% Minerals from Jobs if lithoid main species
+"An Asteroid, Carved",nan,nan,white,,W,Shrines to the Old Gods event chain (Asteroid)
+An Invitation,nan,nan,white,,W,Option to spend 200 Energy to gain a random reward Can choose to instead gain 150-2000 Energy if Corporate (Asteroid)
+Ancient Battlefield,nan,nan,green,technology,G,Next hull size technology or scaled Engineering Research if already researched (Asteroid)
+Ancient Hulk,nan,nan,green,influence,G,Science ship scientist gains the Hyper Focus trait 50 Influence or special project to find the Paridayda system (Gas Giant)
+Ancient Shipyard,nan,nan,green,corvettes,G,Special project to gain 3 pirate corvettes or a pirate destroyer (Uninhabitable Planet)
+Arid and Abandoned,nan,nan,green,minerals,G,Choice between 100-1000 Minerals or a special project to gain the Extensive Sensor Searches edict (Arid)
+Arid Wastes,nan,nan,white,,W,Planet gains +50% Energy from Jobs for 2 years after being colonized and 2 Frozen Gas Lake planetary features (Arid)
+Armed Vessel,nan,nan,green,influence,G,50 Influence or special project to gain 90-250 Engineering Research (Asteroid)
+Asteroid Collision,Ancient Heat Sensor,+5 Engineering Research,magenta,minerals,_,+3 Minerals deposit Choice between the Asteroid Encryption and Asteroid Relay Stations empire modifiers (Asteroid)--------------------Ancient Heat Sensor: +5 Engineering Research
+Asteroid in Orbit,nan,nan,yellow,deposit,Y,+3 Engineering Research deposit Can choose to instead gain the Asteroid Thrusters empire modifier with Calamitous Birth origin +2 Rare Crystals deposit (Uninhabitable Planet)
+Asteroid Triplets,None,nan,magenta,deposit,_,Choice between +2 Energy deposit and +1 Rare Crystals deposit (Asteroid)
+Asteroid Waves,DNA Archive OR Mineralized Brain,−5% Leader Upkeep OR +20 Engineering Research,magenta,scaled,_,Scaled Physics Research +2 Engineering Research deposit and +2 Society Research deposit Can choose to instead gain a special project to gain a new ship if Reanimators or Permanent Employment Science ship scientist gains the Expertise: Statecraft trait if not Machine Intelligence and Expertise: Biology trait if Machine Intelligence Choice between +2 Physics Research deposit and +2 Society Research deposit or scaled Physics Research and 150-2000 Energy (Asteroid)--------------------DNA Archive OR Mineralized Brain: −5% Leader Upkeep OR +20 Engineering Research
+Astonishing Asteroids,nan,nan,green,technology,G,Choice between 100-1000 Minerals or a special project to gain the next mining technology (Asteroid)
+Atmospheric Anomaly,nan,nan,yellow,deposit,Y,+4 Society Research deposit (Uninhabitable Planet)
+Atmospheric Object,nan,nan,yellow,scaled,Y,Scaled Engineering Research Scaled Physics Research (Gas Giant)
+Atmospheric Storms,nan,nan,red,scientist dies,R,+3 Physics Research deposit Choice between +7 Physics Research deposit but the scientist dies or a special project to give the scientist the Expertise: Field Manipulation trait (Gas Giant)
+Attractive Magnetism,nan,nan,green,any habitable planet,G,Soothing Magnetism planet modifier (Any Habitable Planet)
+Bizarre Blanket,Invasive Exofungus,+20 Physics Research,magenta,any habitable planet,_,90-250 Society Research (Any Habitable Planet)--------------------Invasive Exofungus: +20 Physics Research
+Buried in the Sand,nan,nan,green,minerals,G,Choice between +2 Engineering Research deposit or a special project to gain a robot Commander Choice between 150-2000 Energy and Minerals or a special project to gain the Master's Teachings: The Greater Good edict (Desert)
+But They're Cute!,nan,nan,green,any habitable planet,G,Choice between Dangerous Wildlife Removal technology or a special project to give the scientist the Emotional Support Pet trait and gain Unity (Any Habitable Planet)
+Cargo Pod,Alien Jewelry OR Loopmail,+3% Trade Value if Individualist  +2% Energy from Jobs if Gestalt OR +40 Society Research,magenta,influence,_,"Choice between 100-1000 Alloys, 100-1000 Energy or scaled Society Research Can choose to instead gain 1 Minor Artifacts if Ancient Relics is installed Choice between 100 Influence or +5% Research Speed and −5% Monthly Unity for 10 years (Gas Giant)--------------------Alien Jewelry OR Loopmail: +3% Trade Value if Individualist  +2% Energy from Jobs if Gestalt OR +40 Society Research"
+Clouds Dance,nan,nan,white,,W,The Gas Giant is terraformed into a Barren World and the science ship scientist gains 200 experience (Gas Giant)
+Cold Hard Potential,Scientific Treatise of Telisa,+10% Leader Experience Gain,magenta,technology,_,+6 Minerals deposit and choice between a scientist leader with Genious trait or +20% Anomaly Discovery Chance and Anomaly Research Speed for 20 years Next shields technology or 5% Energy Credits from Jobs Empire modifier +20% Anomaly Research Speed and +20% Survey Speed for 10 years Choice between 150-2000 Energy and 500 Consumer Goods or a special project to gain the Master's Teachings: Philosophical Mindset edict (Frozen)--------------------Scientific Treatise of Telisa: +10% Leader Experience Gain
+Cold Wastes,nan,nan,yellow,scaled,Y,+5% Happiness for 20 years Choice between scaled Physics Research or a scientist leader (Frozen)
+Confounding Cosmic Rays,nan,nan,green,technology,G,Planet gains the Irradiated Wasteland modifier and 6 Radioactive Wasteland blockers Next reactor technology (Dry Planet)
+Confusing Composition,None,nan,magenta,society research,_,350-100000 Society Research (Any Uninhabitable Planet)
+Continental Findings,Super Roots,+2% Food from Jobs if biological main species  +2% Minerals from Jobs if lithoid main species,magenta,minerals,_,Planet gains the Lush modifier Choice between 150-2000 Energy and Minerals or a special project to gain the Master's Teachings: Diplomatic Trust edict (Continental)--------------------Super Roots: +2% Food from Jobs if biological main species  +2% Minerals from Jobs if lithoid main species
+Corrupt Survey Data,nan,nan,green,any habitable planet,G,60-150 Engineering Research and the planet disappears (Any Habitable Planet)
+Cosmic Sludge,None,nan,magenta,technology,_,"Choice between a Cosmic Storms technology or 100-1000 Minerals, Alloys, Exotic Gases, Rare Crystals and Volatile Motes (Any Star)"
+Covered in Debris,nan,nan,green,technology,G,+3 Minerals deposit Choice between +3 Alloys deposit or the next Afterburners technology if not yet researched (Asteroid)
+Crash Site,nan,nan,yellow,archaeological,Y,Seeds of Destruction archaeological site (Asteroid)
+Crashed Ship,nan,nan,green,minerals,G,Scaled Engineering Research +3 Minerals deposit (Asteroid)
+Deep Caverns,nan,nan,green,technology,G,+1 Living Metal deposit and Living Metal technology if not already researched (Any Uninhabitable Planet)
+Deep Tunnels,Flooded Settlement Mound,+1% Habitability,magenta,,_,Flooded Mounds planetary feature and Watery Grave planet modifier (Ocean)--------------------Flooded Settlement Mound: +1% Habitability
+Desolate Sands,nan,nan,white,,W,Planet gains the Liquid Sands modifier and 3 Quicksand Basin blockers (Desert)
+Dimensional Disturbance,nan,nan,yellow,scaled,Y,Scaled Engineering Research and Scaled Physics Research 1 extradimensional science ship (Asteroid)
+Displaced Tiyanki,None,nan,magenta,minerals,_,"Special project to gain 100-1000 Food, Minerals, Alloys and Rare Crystals and 250-100000 Society Research if not Devouring Swarm 100-1000 Food if Devouring Swarm (Any Star)"
+Distress Signal,nan,nan,yellow,scaled,Y,Special project to gain scaled Society Research (Any Planet)
+Docking Hatch,nan,nan,yellow,deposit,Y,100-1000 Energy +3 Engineering Research deposit (Asteroid)
+Doppler Effect,nan,nan,white,,W,The Ransomeers event chain (Uninhabitable Planet)
+Drops in the Ocean,nan,nan,yellow,society research,Y,"+10% Society Research from Jobs for 10 years, +10% Happiness for 10 years and gain the Improved Working Environment edict (Ocean)"
+Dunes,nan,nan,green,influence,G,100-1000 Energy Science ship scientist gains the Towel-bearer trait Special project to gain 1 corvette Can choose to instead gain 40-100 Influence if Xenophobe (Desert)
+Dustbowl,Planet-Pusher,+5 Fleet Command Limit,magenta,technology,_,+3 Engineering Research deposit +6 Engineering Research deposit  Ion Thrusters technology or 100-500 Unity if already researched (Asteroid)--------------------Planet-Pusher: +5 Fleet Command Limit
+Encrypted Transmission,nan,nan,yellow,l-gate,Y,+1 L-Gate Insight (Any Planet)
+Energy Emissions,nan,nan,yellow,scaled,Y,Scaled Physics Research +3 Physics Research deposit (Asteroid)
+Existentialist Dissipation,None,nan,magenta,unity,_,150-100000 Unity (Any Uninhabitable Planet)
+Fleet Signatures,nan,nan,yellow,deposit,Y,+3 Society deposit (Black Hole)
+Floating Value,nan,nan,green,minerals,G,Choice between 250-5000 Minerals and 125-250 Influence (Ocean)
+Foreign Object,None,nan,magenta,technology,_,Choice between 500-1000000 Society Research or a special project to gain the Xenology technology and a Cosmic Storms technology if not Devouring Swarm 250-5000 Food if Devouring Swarm (Any Star)
+Gas Giant Ship,nan,nan,green,influence,G,Choice between 50 Influence or a special project to gain a cruiser (Gas Giant)
+Gas Giant Signal,nan,nan,white,,W,Gas Giant Signal event chain (Gas Giant)
+Gray Goo,Nanite Sludge,+5 Edict Fund,magenta,technology,_,Random Industry technology +1 L-Gate Insight if an L-Gate was discovered (Frozen)--------------------Nanite Sludge: +5 Edict Fund
+Heated Rhythm,nan,nan,yellow,deposit,Y,+2 Engineering Research deposit and 150-2000 energy (Molten)
+Heavy Pulse,Cosmic Diamond Fragment,+15% Monthly Rare Crystals,magenta,deposit,_,+4 Physics deposit (Class F Star)--------------------Cosmic Diamond Fragment: +15% Monthly Rare Crystals
+Heavy Readings,nan,nan,red,paranoid trait,R,Special project to gain 90-250 Physics Research and 2 levels and the Paranoid trait for the scientist (Any Star)
+Ice Ice Giant,nan,nan,yellow,deposit,Y,+1 Zro deposit (Gas Giant)
+Ice Lit,nan,nan,green,technology,G,Blue Lasers technology or 100 scientist experience if already researched (Frozen)
+Icy Plains,nan,nan,yellow,scaled,Y,Ancient Mining Site planetary feature and scaled Engineering Research (Arctic)
+Impenetrable Clouds,Metallic Snow,+4% Alloys from Jobs,magenta,minerals,_,+3 Minerals deposit (Toxic)--------------------Metallic Snow: +4% Alloys from Jobs
+Impossible Organism,Nivlac Declaration of Animosity OR Nivlac Declaration of Friendship,+5 Edict Fund OR +10 Unity,magenta,unity,_,Impossible Organism event chain (Toxic)--------------------Nivlac Declaration of Animosity OR Nivlac Declaration of Friendship: +5 Edict Fund OR +10 Unity
+Improbable Orbit,Extra-dimensional Ceramic Pot,+20 Physics Research,magenta,influence,_,Choice between 40-100 Influence or a special project to gain randomly 150-300 Influence or +15% Research Speed for 20 years Can choose to instead gain 80-175 Influence if Spiritualist (Any Star)--------------------Extra-dimensional Ceramic Pot: +20 Physics Research
+Inconsistent Readings,Hot Ice,+5 Amenities,magenta,deposit,_,+3 Physics deposit (Frozen)--------------------Hot Ice: +5 Amenities
+Interference,nan,nan,yellow,physics research,Y,250-100000 Physics Research and 250-100000 Society Research (Any Star)
+Irregular Energy Emissions,nan,nan,green,influence,G,25 Influence or special project to give a scientist the Perfectionist trait (Any Star)
+Isolated Ruin,nan,nan,green,any habitable planet,G,Zone A planetary feature (Any Habitable Planet)
+Kaleidoscopic,Polymer Waterweave,+10% Planetary Build Speed,magenta,,_,Science ship scientist gains 200 experience (Ocean)--------------------Polymer Waterweave: +10% Planetary Build Speed
+Life Signs,Ammoniaphytus OR Crystalose OR Toxic Bio-Engine,+6% Trade Value if Individualist  +4% Energy from Jobs if Gestalt OR +2% Food from Jobs if biological main species  +2% Minerals from Jobs if lithoid main species OR +5% Orbital Bomberdment Damage,magenta,technology,_,"+3 Society Research deposit +3 Minerals deposit Choice between +4 Society Research deposit or +3 Food deposit Choice between +4 Engineering Research deposit or +3 Alloys deposit Can choose to instead gain +5 Alloys deposit with Catalytic Processing civic Can choose to instead gain +4 Society deposit with Agrarian Idyll civic Choice between scaled Physics Research, scaled Society Research, 250-1500 Unity or +4 Engineering Research deposit Special project to gain +4 Society Research deposit and scaled Society Research +3 Society Research deposit and special project to gain scaled Society Research and the Living Metal technology if not already researched (Uninhabitable Planet)--------------------Ammoniaphytus OR Crystalose OR Toxic Bio-Engine: +6% Trade Value if Individualist  +4% Energy from Jobs if Gestalt OR +2% Food from Jobs if biological main species  +2% Minerals from Jobs if lithoid main species OR +5% Orbital Bomberdment Damage"
+Light Phenomenon,nan,nan,green,minerals,G,Choice between +4 Physics Research deposit or a special project to gain 150-2000 Minerals (Any Star)
+Looking Down,nan,nan,green,influence,G,+2 Engineering Research deposit and +2 Physics Research deposit Special project to give the science ship scientist the Expertise: Military Theory trait Can choose to instead gain 40-100 Influence if Pacifist (Barren)
+Lost Soul,Castaway Robot,+2% Energy from Jobs,magenta,minerals,_,+3 Minerals deposit (Asteroid)--------------------Castaway Robot: +2% Energy from Jobs
+Massive Impact,nan,nan,green,minerals,G,Scaled Physics Research +3 Minerals deposit (Uninhabitable Planet)
+Megaflora,Carnivorous Megaflora,+2% Consumer Goods from Jobs if Individualist  +2% Energy from Jobs if Gestalt,magenta,any habitable planet,_,350-100000 Society Research (Any Habitable Planet)--------------------Carnivorous Megaflora: +2% Consumer Goods from Jobs if Individualist  +2% Energy from Jobs if Gestalt
+Metallic Crystal Formations,nan,nan,yellow,l-gate,Y,90-250 Engineering Research 200 Nanites if not Xenophobe 90-250 Society Research if Xenophobe +1 L-Gate Insight if an L-Gate was discovered (Frozen)
+Metallic Sands,nan,nan,green,minerals,G,90-250 Engineering Research  Nanosands planetary feature if planet is habitable +4 Minerals deposit if planet is uninhabitable +1 L-Gate Insight if an L-Gate was discovered (Any Planet)
+Mind the Minerals,nan,nan,yellow,deposit,Y,+3 Alloys deposit (Asteroid)
+Mineral Cluster,Last Copy of The Prince,+7 Amenities,magenta,minerals,_,"250-5000 Minerals and science ship scientist gains the Intuition trait Science ship scientist gains the Expertise: Voidcraft trait Special project to gain scaled Society Research and give the science ship scientist the Expertise: Statecraft trait Can choose to instead gain 40-100 Influence if Xenophobe Special project to gain 40-100 Influence or 250-5000 energy, 20 Opinion and a Favor with a random empire (Asteroid)--------------------Last Copy of The Prince: +7 Amenities"
+Minesweeper,nan,nan,white,,W,Science ship scientist gains the Expertise: New Worlds trait (Gaia)
+Monoliths,Cenotaph Display,+3% Space Fauna Ship Damage,magenta,scaled,_,Scaled Engineering Research (Uninhabitable Planet)--------------------Cenotaph Display: +3% Space Fauna Ship Damage
+Movement in the Clouds,nan,nan,white,,W,Lost Amoeba event chain (Gas Giant)
+Mysterious Construct,nan,nan,white,,W,Special project to gain the S875.1 Warform renowned paragon if AI Policy is not Outlawed (Toxic)
+Mysterious Heat,nan,nan,green,unity,G,Choice between scaled Unity or scaled Society Research (Frozen)
+Mystical,"""Tree of Life"" Sample",+5 Physics Research,magenta,influence,_,"Special project to gain 25 Influence, +5% Organic Pop Happiness or +15 Years Leader Lifespan (Asteroid)--------------------""Tree of Life"" Sample: +5 Physics Research"
+Odd Readings,First Astronaut,+5% Unity,magenta,unity,_,Scaled Society Research Choice between 100-1000 Alloys or a special project to gain a science ship or an empire modifier increasing subspace speed by 10% (Asteroid)--------------------First Astronaut: +5% Unity
+On Solar Sails,nan,nan,yellow,archaeological,Y,Message in a Bottle archaeological site (Any Star or Planet)
+On the Barren Plains,Alien Brain Scans,+10 Edict Fund,magenta,,_,Limbo event chain (Barren)--------------------Alien Brain Scans: +10 Edict Fund
+Orbital Speed Demon,High-Velocity Centrifugal Container,+20 Engineering Research,magenta,engineering research,_,Orbital Speed Demon event chain (Asteroid)--------------------High-Velocity Centrifugal Container: +20 Engineering Research
+Overgrown Ruins,nan,nan,green,any habitable planet,G,120-350 Society Research if not Fanatic Purifiers or Determined Exterminator 90-250 Society Research if Fanatic Purifiers or Determined Exterminator (Any Habitable Planet)
+Paradise Anticipated,nan,nan,yellow,scaled,Y,Scaled Society Research (Gaia)
+Parked,nan,nan,green,any habitable planet,G,1 pirate corvette or 40-100 Influence if Xenophobe (Any Habitable Planet)
+Peculiar Crater,nan,nan,green,technology,G,+1 Living Metal deposit and Living Metal technology if not already researched (Uninhabitable Planet)
+Peculiar Patterns,nan,nan,green,any habitable planet,G,Harvester Fields planetary feature and Ancient Harvesters planet modifier if not discovered on an Ocean World  Wetware Computer planetary feature if discovered on an Ocean World (Any Habitable Planet)
+Pigment Poison,Purple Rainaissance,+3 Amenities,magenta,,_,+10% Happiness for 20 years (Toxic)--------------------Purple Rainaissance: +3 Amenities
+Planetary Scars,Warning Monolith,+2% Consumer Goods from Jobs if Individualist  +2% Energy from Jobs if Gestalt,magenta,any habitable planet,_,Special project to gain a random weapon technology (Any Habitable Planet)--------------------Warning Monolith: +2% Consumer Goods from Jobs if Individualist  +2% Energy from Jobs if Gestalt
+Playful Ruins,Spiraling Attraction,+10% Planetary Build Speed,magenta,scaled,_,Scaled Society Research and Scaled Engineering Research (Any Planet)--------------------Spiraling Attraction: +10% Planetary Build Speed
+Poison-coated,nan,nan,green,minerals,G,Option to pay 100 Energy to issue a special project to gain +6 Minerals deposit (Toxic)
+Polychromatic Star,None,nan,magenta,deposit,_,Choice between +7 Physics Research deposit or +2 Energy deposit (Any Star)
+Possible Inhabitants,High Geode,+4% Minerals from Jobs,magenta,minerals,_,"Choice between 100-1000 Minerals or a special project to gain 150-2000 Minerals, 6 pops or the Mineral Mapping empire modifier (Dry Planet)--------------------High Geode: +4% Minerals from Jobs"
+Projecting,nan,nan,yellow,deposit,Y,Special project to gain +3 Engineering Research deposit (Uninhabitable Planet)
+Promising Moon,nan,nan,green,minerals,G,+3 Energy deposit Choice between +5 Minerals deposit or 1200 Minerals (Gas Giant)
+Radiating Asteroid,Wormhole Anchor,+10 Society Research,magenta,deposit,_,+1 Dark Matter deposit (Asteroid)--------------------Wormhole Anchor: +10 Society Research
+Radioactive Planet,Gammabloom,+5 Amenities,magenta,,_,Planet gains 2 Radioactive Ruins blockers (Tomb)--------------------Gammabloom: +5 Amenities
+Rainbow in the Dark,Black Hole Chromatic Anomaly,+1 Sensor Range,magenta,paranoid trait,_,+9 Physics Research deposit Scaled Physics Research and science ship scientist gains the Paranoid trait (Black Hole)--------------------Black Hole Chromatic Anomaly: +1 Sensor Range
+Rapid Desertification,nan,nan,white,,W,Planet gains the Alien Infestation modifier and a special project to replace it with Lush and the Bountiful Plains and Green Hills planetary features Can choose to instead gain +10% Society from Jobs and −5% Housing for 10 years if not Xenophobe Can choose to instead gain 500 Food and the Red Desert planetary feature if not Pacifist or Xenophile Can choose to instead gain a pre-sapient pop with the Delicious and Unintelligent trait on every planet if Xenophobe (Dry Planet)
+Resonant Crystals,Vibrating Crystal,+6% Consumer Goods from Jobs if Individualist  +6% Energy from Jobs if Gestalt,magenta,any habitable planet,_,Resonant Crystals planet modifier (Any Habitable Planet)--------------------Vibrating Crystal: +6% Consumer Goods from Jobs if Individualist  +6% Energy from Jobs if Gestalt
+Rubiconian Shores,nan,nan,green,any habitable planet,G,Drifting Battlefield event chain (Any Habitable Planet)
+Scurrying,Crimson Nimkips,+5 Amenities,magenta,influence,_,40-100 Influence (Tropical)--------------------Crimson Nimkips: +5 Amenities
+Secret Heart,nan,nan,yellow,deposit,Y,+1 Rare Crystals deposit (Asteroid)
+Shattered Satellite,None,nan,magenta,technology,_,Cosmic Storms technology and 100-1000 Minerals (Any Star)
+Ship Fragments,nan,nan,yellow,deposit,Y,500-1000000 Society Research +7 Physics Research deposit (Neutron Star)
+Signs of Ancient Life,Remains of Robot,+7% Unity,magenta,any habitable planet,_,Enigmatic Robot planetary feature and 100-1000 Alloys (Any Habitable Planet)--------------------Remains of Robot: +7% Unity
+Signs of Battle,nan,nan,yellow,scaled,Y,Special project to gain +3 Engineering Research deposit and the science ship scientist gains 200 experience 50% to also gain scaled Engineering Research If an L-Gate has been encountered and the L-Cluster hasn't been accessed there is a 30% chance to gain an L-Gate Insight in 10 days (Uninhabitable Planet)
+Signs of Former Habitation,nan,nan,yellow,deposit,Y,+2 Society Research deposit and +2 Engineering Research deposit +2 Society Research deposit and +2 Physics Research deposit (Toxic)
+Silent Behemoth,Mantle of the Dead God,+5 Society Research,magenta,deposit,_,"Dead God planet modifier, +5 Society deposit and 60-150 Society Research (Any Uninhabitable Moon)--------------------Mantle of the Dead God: +5 Society Research"
+Solar Sailer,Torn Solar Sail,+5 Society Research,magenta,scaled,_,Scaled Engineering Research (Uninhabitable Planet)--------------------Torn Solar Sail: +5 Society Research
+Solid Core,nan,nan,yellow,deposit,Y,+2 Exotic Gases deposit and 90-250 Society Research +1 L-Gate Insight if an L-Gate was discovered (Gas Giant)
+Something Smells,Olfactodrive,+5 Amenities,magenta,scaled,_,Special project to gain scaled Society Research (Frozen)--------------------Olfactodrive: +5 Amenities
+Space Debris,nan,nan,green,minerals,G,+3 Minerals deposit Special project to give the science ship scientist the Hyper Focus trait (Gas Giant)
+Space Station,nan,nan,yellow,deposit,Y,A random celestial body with a deposit within borders gains a mining station (Uninhabitable Planet)
+Spacecraft Remains,nan,nan,green,technology,G,"Scientist leader and either Automated Exploration Protocols, Synchronized Defenses or Subspace Sensors technology (Asteroid)"
+Spontaneous Explosions,nan,nan,yellow,scaled,Y,Special project to gain scaled Engineering Research and option to spawn the Weapon Extraction Facility planetary feature Can choose to instead spawn an Astral Rift if Astral Planes is installed (Tomb)
+Spotty Greenery,Hyperfertile Soil,+6% Food from Jobs if biological main species  +6% Minerals from Jobs if lithoid main species,magenta,minerals,_,Hyperfertile Valley planetary feature Special project to add the Ancient Mining Site planetary feature and give the science ship scientist the Expertise: Industry trait (Wet Planet)--------------------Hyperfertile Soil: +6% Food from Jobs if biological main species  +6% Minerals from Jobs if lithoid main species
+Steamrolled,nan,nan,green,any habitable planet,G,All blockers on the planet are removed (Any Habitable Planet)
+Strange Emissions,Mutated 'Fumongus',+1 Sensor Range,magenta,influence,_,"Choice between 100-1000 Energy, scaled Unity or special project to find the Orvall unique system Choose between Society Research, 100-1000 Energy or 40-100 Influence if the Desiccated site has been excavated (dismantled) Choose between Society Research or special project to gain +10 Base Intel Level if the Desiccated site has been excavated (restored) (Barren)--------------------Mutated 'Fumongus': +1 Sensor Range"
+Strange Mountain Formation,Enormous Scrambled Albumen OR Massive Metatarsal,+4% Food from Jobs if biological main species  +4% Minerals from Jobs if lithoid main species OR +10 Engineering Research,magenta,minerals,_,Special project to gain +3 Engineering Research deposit and +3 Society Research deposit Can choose a second special project that will grant a Skeletal Giant army if the empire has the Reanimators or Permanent Employment civic Choice between +4 Society Research deposit or a special project to gain +8 Society Research deposit and scaled Society Research Can choose to instead gain +10 Food deposit if Devouring Swarm (Uninhabitable Planet)--------------------Enormous Scrambled Albumen OR Massive Metatarsal: +4% Food from Jobs if biological main species  +4% Minerals from Jobs if lithoid main species OR +10 Engineering Research
+Strange Readings,nan,nan,green,unity,G,+3 Unity deposit Can choose to also gain +1 Amenities and −1 Deviancy for 20 years if Hive Mind Can choose to instead gain +6 Physics deposit if Machine Intelligence (Uninhabitable Planet)
+Supply Ship Wreckage,nan,nan,green,minerals,G,300 minerals or 100 Influence (Any Planet)
+Surface Beacon,Ancient Mining Transmitter,+2% Minerals from Jobs,magenta,minerals,_,+4 Minerals deposit (Uninhabitable Planet)--------------------Ancient Mining Transmitter: +2% Minerals from Jobs
+Surface Writing,Tales of a Mercenary,+5 Unity,magenta,unity,_,+3 Society Research deposit (Uninhabitable Planet)--------------------Tales of a Mercenary: +5 Unity
+Terminal Orbit,nan,nan,yellow,scaled,Y,Special project to gain scaled Physics Research (Gas Giant)
+Terrestrial Telescopes,None,nan,magenta,unity,_,150-100000 unity and 250-100000 Society Research (Any Uninhabitable Planet)
+The Imitator,None,nan,magenta,unity,_,Choice between 100-1000 Alloys and Unity or a random level 3 Scientist (Any Uninhabitable Planet)
+The Orb,nan,nan,yellow,scaled,Y,Choose between scaled Physics Research or giving the science ship scientist the Chronofuge trait (Any Planet)
+The Organic Comet,None,nan,magenta,deposit,_,Choice between +3 Society Research deposit or +1 Exotic Gases deposit (Any Uninhabitable Planet)
+The Winter of the Fallen,nan,nan,green,influence,G,Special project to gain 125-250 Influence Has a chance to gain a Commander if Pacifist or Spiritualist (Tomb)
+Thin Ice,nan,nan,yellow,deposit,Y,"Special project to gain +1 Research deposit, +3 Rare Crystals deposit, or lose the science ship scientist to gain a +5 Research deposit (Frozen)"
+Toxic Construction,nan,nan,green,minerals,G,+6 Minerals deposit Can choose to instead gain +9 Society deposit if science ship scientist has the Perfectionist trait (Toxic)
+Toxicity,nan,nan,yellow,deposit,Y,"+6 Engineering Research deposit, Improved Energy Initiative edict and science ship scientist gains the Expertise: Propulsion trait (Toxic)"
+Tropical Oddities,Acidic Spores,+2% Food from Jobs if biological main species  +2% Minerals from Jobs if lithoid main species,magenta,minerals,_,Planet gains the Acid Jungles modifier and 2 Noxious Swamp blockers (Tropical)--------------------Acidic Spores: +2% Food from Jobs if biological main species  +2% Minerals from Jobs if lithoid main species
+Unidentified Object,Index of Knowledge,+10 Physics Research,magenta,scaled,_,Special project to gain scaled Engineering Research (Uninhabitable Planet)--------------------Index of Knowledge: +10 Physics Research
+Unknown Insides,nan,nan,green,minerals,G,Choice between +4 Energy deposit or a special project to gain +3 Minerals deposit (Asteroid)
+Unknown Origin,Asteroid Fossils OR Coprolite,2% Minerals from Jobs OR +2% Food from Jobs if biological main species  +2% Minerals from Jobs if lithoid main species,magenta,minerals,_,Scaled Society Research +3 Society Research deposit +1 Alloys deposit (Asteroid)--------------------Asteroid Fossils OR Coprolite: 2% Minerals from Jobs OR +2% Food from Jobs if biological main species  +2% Minerals from Jobs if lithoid main species
+Unscannable Object,Sonically Reflective Prism,+3 Amenities,magenta,l-gate,_,90-250 Physics Research +1 L-Gate Insight if an L-Gate was discovered (Asteroid)--------------------Sonically Reflective Prism: +3 Amenities
+Unusual Energy Readings,Intergalactic Projectile,+3% Ship Weapons Damage,magenta,unity,_,"Scaled Engineering Research Scaled Physics Research +3 Physics Research deposit Choice between scaled Unity, +10% Monthly Engineering Research for 10 years or 100 Alloys and 50 Rare Crystals and Volatile Motes If an L-Gate has been encountered and the L-Cluster hasn't been accessed there is a 30% chance to gain an L-Gate Insight in 10 days (Uninhabitable Planet)--------------------Intergalactic Projectile: +3% Ship Weapons Damage"
+Unusual Moon,nan,nan,green,minerals,G,+3 Minerals deposit (Any Uninhabitable Moon)
+Unusual Temporal Fluctuations,nan,nan,yellow,deposit,Y,+3 Physics Research deposit (Asteroid)
+Volcanic Vents,nan,nan,yellow,deposit,Y,+1 Exotic Gases deposit and 60-150 Society Research (Molten)
+Waterless Canyons,nan,nan,green,minerals,G,+4 Minerals deposit (Barren)
+Weak Signal,nan,nan,yellow,scaled,Y,Scaled Society Research Scaled Society Research (Uninhabitable Planet)
+Webwork,Electric Life,+6% Energy from Jobs,magenta,deposit,_,+3 Society deposit and scientist gains a level (Any Uninhabitable Planet)--------------------Electric Life: +6% Energy from Jobs
+What Hums in the Night,Plastic Toy OR The Orchestra,+3 Amenities OR +5 Physics Research,magenta,any habitable planet,_,Toy Factory Complex planetary feature Scaled Society Research (Any Habitable Planet)--------------------Plastic Toy OR The Orchestra: +3 Amenities OR +5 Physics Research
+Winking,nan,nan,yellow,deposit,Y,Choice between +4 Physics Research deposit or spending 200 Energy for a 50% chance to terraform the planet into an Arid World (Barren)
+Wooden Hegemony,nan,nan,white,,W,Special project to give the science ship scientist 200 experience (Tropical)

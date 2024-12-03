@@ -4,4 +4,4 @@ tags={
 	"Utilities"
 }
 name="Anomaly Description"
-supported_version="v3.13.0"
+supported_version="v3.14"
